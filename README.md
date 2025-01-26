@@ -37,8 +37,7 @@
 
 ---
 
-#### [# Исследование поведения пользователей сервиса аренды самокатов](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/04%20-%20Finding%20a%20promising%20tariff%20for%20a%20telecom%20company) 
-
+#### 
 Проект, демонстрирующий навыки предобработки данных, описательной статистики, проверки статистических гипотез.
 
 **Стэк:** Python, Pandas, Matplotlib, NumPy, SciPy
