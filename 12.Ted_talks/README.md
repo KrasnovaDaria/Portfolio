@@ -1,4 +1,4 @@
-# Создание дашборда по пользовательским событиям для агрегаторановостей
+# Создание дашборда по пользовательским событиям для агрегатора новостей
 # Ссылка на работу: https://public.tableau.com/views/project_res1/sheet24?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Цели проекта:
